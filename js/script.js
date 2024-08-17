@@ -54,7 +54,7 @@ const config = {
             {
                 inGameName: "Dexh",
                 rank: "Owner",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/dex.png",
                 rankColor: "rgba(255, 3, 3, 1)"
             },
             {
@@ -68,7 +68,7 @@ const config = {
             {
                 inGameName: "Doraemon",
                 rank: "Manager",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/dora.png",
                 rankColor: "rgba(255, 3, 3, 1)" 
             }
         ],
@@ -76,7 +76,7 @@ const config = {
             {
                 inGameName: "GufougoFranchi",
                 rank: "Sr.Admin",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/gufo.png",
                 rankColor: "rgba(255, 3, 3, 1)"  
             },
             {
@@ -118,7 +118,7 @@ const config = {
             {
                 inGameName: "Justpingu",
                 rank: "Mod+",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/pingu.png",
                 rankColor: "#00308f" 
             },
             {
@@ -126,7 +126,13 @@ const config = {
                 rank: "Mod",
                 skinUrlOrPathToFile: "",
                 rankColor: "#4a86ff"   
-            }
+            },
+            {
+                inGameName: "West",
+                rank: "Mod",
+                skinUrlOrPathToFile: "",
+                rankColor: "#4a86ff"
+            },
         ],
         helper: [
             {
@@ -136,11 +142,11 @@ const config = {
                 rankColor: "#03fc24"
             },
             {
-                inGameName: "West",
+                inGameName: "366kz_",
                 rank: "Helper",
-                skinUrlOrPathToFile: "",
+                skinUrlOrPathToFile: "images/366.png",
                 rankColor: "#03fc24"
-            },
+            }
         ]
     },
 
